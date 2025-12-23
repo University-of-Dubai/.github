@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="ud-logo.png" width="180px" alt="University of Dubai Logo" />
+<img src="https://github.com/University-of-Dubai/.github/blob/main/ud-logo.png?raw=true" width="180px" alt="University of Dubai Logo" />
+
+<br>
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=003366&height=200&section=header&text=University%20of%20Dubai&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 # 🎓 University of Dubai Developer Hub
 **Empowering students and faculty through real-world Enterprise and open-source innovation.**
-
-[![Join Us](https://img.shields.io/badge/Status-Join%20Now-brightgreen?style=for-the-badge&logo=github)](YOUR_JOIN_LINK_HERE)
-[![Followers](https://img.shields.io/github/followers/YOUR_ORG_NAME?label=Community&style=for-the-badge&color=blue)](https://github.com/YOUR_ORG_NAME)
-[![Classroom](https://img.shields.io/badge/GitHub-Classroom-orange?style=for-the-badge&logo=github)](https://classroom.github.com/)
 
 </div>
 
