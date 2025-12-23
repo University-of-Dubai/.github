@@ -1,13 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=003366&height=250&section=header&text=University%20of%20Dubai&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
-<br>
-<img src="https://www.ud.ac.ae/wp-content/uploads/2021/05/UD-Logo.png" width="180px" style="margin-top: -100px;" />
+
+<img src="ud-logo.png" width="180px" alt="University of Dubai Logo" />
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=003366&height=200&section=header&text=University%20of%20Dubai&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 # 🎓 University of Dubai Developer Hub
-**Empowering students and faculty through real world Enterprise and open-source innovation.**
+**Empowering students and faculty through real-world Enterprise and open-source innovation.**
 
-[![Join Us](https://img.shields.io/badge/Status-Join%20Now-brightgreen?style=for-the-badge&logo=github)]([Link_To_Your_Join_Form])
-[![Followers](https://img.shields.io/github/followers/[Your_Org_Name]?label=Community&style=for-the-badge&color=blue)](https://github.com/[Your_Org_Name])
+[![Join Us](https://img.shields.io/badge/Status-Join%20Now-brightgreen?style=for-the-badge&logo=github)](YOUR_JOIN_LINK_HERE)
+[![Followers](https://img.shields.io/github/followers/YOUR_ORG_NAME?label=Community&style=for-the-badge&color=blue)](https://github.com/YOUR_ORG_NAME)
 [![Classroom](https://img.shields.io/badge/GitHub-Classroom-orange?style=for-the-badge&logo=github)](https://classroom.github.com/)
 
 </div>
