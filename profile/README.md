@@ -4,8 +4,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=003366&height=200&section=header&text=University%20of%20Dubai&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
-
 # 🎓 University of Dubai Developer Hub
 **Empowering students and faculty through real-world Enterprise and open-source innovation.**
 
