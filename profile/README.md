@@ -95,6 +95,10 @@ Welcome to the official GitHub home of **University of Dubai**. This space is de
 | **Dev Tools** | Get the $200k+ Student Developer Pack | [🎒 Claim Pack](https://education.github.com/pack) |
 
 ---
+## 🎓 Get Started
+Ready to start your project? Use our official starter kit:
+
+[![Use our Template](https://img.shields.io/badge/Start-Use%20Starter%20Template-blueviolet?style=for-the-badge&logo=github)](https://github.com/University-of-Dubai/ud-project-starter/generate)
 
 ## ⭐ Featured Student Projects
 *Showcasing the best builds from our community. Want to be here? Open a PR!*
