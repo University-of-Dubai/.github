@@ -4,7 +4,7 @@
 
 <br>
 
-# 🎓 University of Dubai Developer Hub
+# 🎓 University of Dubai Technology Hub
 **Empowering students and faculty through real-world Enterprise and open-source innovation.**
 
 </div>
