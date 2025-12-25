@@ -132,6 +132,44 @@ Ready to start your project? Use our official starter kit:
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/University%20of%20Dubai-Technology%20Hub-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Verified%20Domain-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Program-Enterprise%20Campus-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+## 📩 Feedback & Suggestions
+Do you have an idea to improve the **UD Technology Hub**? We value student and faculty feedback to help us grow our digital ecosystem!
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/BuildingTHEITGUY">
+        <img src="https://github.com/BuildingTHEITGUY.png" width="100px;" alt="Mohamed Asath"/><br />
+        <sub><b>Mohamed Asath</b></sub>
+      </a><br />
+      <sub>Executive | IT Infrastructure & Operations</sub>
+    </td>
+    <td>
+      <strong>Connect & Contribute:</strong>
+      <br />
+      I am happy to hear your suggestions regarding our templates, organization structure, or potential collaborations.
+      <br /><br />
+      <a href="https://github.com/BuildingTHEITGUY">
+        <img src="https://img.shields.io/badge/GitHub-BuildingTHEITGUY-red?style=for-the-badge&logo=github" />
+      </a>
+      <a href="https://www.linkedin.com/in/mohamed-asath">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+      </a>
+      <a href="https://github.com/University-of-Dubai/.github/issues/new">
+        <img src="https://img.shields.io/badge/Idea-Submit%20Suggestion-brightgreen?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <p><i>Managed by the <b>University of Dubai - IT Service Department</b></i></p>
   <img src="https://img.shields.io/badge/University%20of%20Dubai-Administered-blue?style=flat-square" />
