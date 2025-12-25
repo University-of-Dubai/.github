@@ -140,7 +140,7 @@ Ready to start your project? Use our official starter kit:
 
 
 
-<a href="INSERT_YOUR_MICROSOFT_FORM_LINK_HERE">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=UcwTWMcxKU2hvvxssbd-HAbiXq2a-_JGtnW0YqCSe5tUODhNVTlEWEhQMzBHVkJHQjJYOVA1V1lINS4u">
   <img src="https://img.shields.io/badge/JOIN_NOW-CLICK_HERE_TO_REGISTER-red?style=for-the-badge&logo=microsoft&logoColor=white" height="60">
 </a>
 
