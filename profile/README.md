@@ -126,9 +126,28 @@ Ready to start your project? Use our official starter kit:
 ## 📞 Support & Resources
 *Need help? Reach out to the administration team through the following channels:*
 
-* 👤 **IT Helpdesk:** [reach@ud.ac.ae - IT Service Department]
+* 👤 **IT Helpdesk:** [reach@ud.ac.ae - reach.ud.ac.ae]
 * 📚 **Documentation:** [Link to University IT or Wiki]
-* 💬 **Community:** Join our [Discord/Slack/Teams] channel to chat with other developers.
+* 💬 **Community:** Join our [Teams] channel to chat with other developers.
+
+---
+---
+
+<div align="center">
+
+# 🔥 JOIN THE TECHNOLOGY HUB NOW 🔥
+**Ready to access UD GitHub Enterprise infrastructure?**
+
+
+
+<a href="INSERT_YOUR_MICROSOFT_FORM_LINK_HERE">
+  <img src="https://img.shields.io/badge/JOIN_NOW-CLICK_HERE_TO_REGISTER-red?style=for-the-badge&logo=microsoft&logoColor=white" height="60">
+</a>
+
+<br />
+<sub><i>Submit your details via the official Microsoft Form to request your Enterprise license.</i></sub>
+
+</div>
 
 ---
 
