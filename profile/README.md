@@ -146,7 +146,7 @@ Do you have an idea to improve the **UD Technology Hub**? We value student and f
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/BuildingTHEITGUY">
+      <a href="https://www.buildingtheitguy.com/">
         <img src="https://github.com/BuildingTHEITGUY.png" width="100px;" alt="Mohamed Asath"/><br />
         <sub><b>Mohamed Asath</b></sub>
       </a><br />
