@@ -126,8 +126,8 @@ Ready to start your project? Use our official starter kit:
 ## 📞 Support & Resources
 *Need help? Reach out to the administration team through the following channels:*
 
-* 👤 **IT Helpdesk:** [reach@ud.ac.ae - reach.ud.ac.ae]
-* 📚 **Documentation:** [Link to University IT or Wiki]
+* 👤 **IT Helpdesk:** [ithelpdesk@ud.ac.ae - https://reach.ud.ac.ae]
+* 📚 **Documentation:** [Wiki]
 * 💬 **Community:** Join our [Teams] channel to chat with other developers.
 
 ---
