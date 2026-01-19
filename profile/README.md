@@ -105,9 +105,9 @@ Ready to start your project? Use our official starter kit:
 
 <div align="center">
 
-| [Project Name 1] | [Project Name 2] |
+| **University Research** | **UD R&D** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=[User]&repo=[Repo]&theme=react" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=[User]&repo=[Repo]&theme=react" /> |
+| <a href="https://github.com/University-of-Dubai-Research/arabic-legal-text"><img src="https://github-readme-stats.vercel.app/api/pin/?username=University-of-Dubai-Research&repo=arabic-legal-text&theme=react&show_owner=true" /></a> | <a href="https://github.com/BuildingTHEITGUY/autonomous-reasoning-demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BuildingTHEITGUY&repo=autonomous-reasoning-demo&theme=react&show_owner=true" /></a> |
 
 </div>
 
